@@ -10,5 +10,6 @@ AltArch investigates methods of decolonizing digital archives. I am interested i
 - constructing archives with material not historically considered part of the Archive
 
 You can follow my experiments [here](https://altarch.wordpress.com/).
+![AltArch](altarch.PNG)
 
 I welcome collaborators to join me in conceptualizing new experiments in archives. I am interested in finding new archives (particularly related to race, the Global South, or postcoloniality) that we can play with, and new modes of decolonizing these archives. You can either send in an inquiry through my website, or post an [Issue on this GitHub repo](https://github.com/shreethorat/AltArch/issues).
