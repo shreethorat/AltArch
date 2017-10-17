@@ -9,5 +9,5 @@ AltArch investigates methods of decolonizing digital archives. I am interested i
 - building scripts that allow you to remix archival data
 - constructing archives with material not historically considered part of the Archive
 
-You can follow my experiments [here] (https://altarch.wordpress.com/).
+You can follow my experiments [here](https://altarch.wordpress.com/).
 
