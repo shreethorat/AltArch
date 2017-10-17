@@ -1,4 +1,4 @@
-## Sharing my Work
+# Sharing my Work
 
 You are welcome to share my AltArch work under the following CC licence
 ### [Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/legalcode)
